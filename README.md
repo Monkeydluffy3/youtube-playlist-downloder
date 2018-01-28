@@ -4,6 +4,7 @@ to run the project u must have python3 in your machine with following tools
  1) beautifulsoup
  2)urllib
  3)sellinium 
+ 4)geckodriver
  
 to run the project run python3 try.py
 then you need to enter the number of videos u want to downlode from the playlist 
